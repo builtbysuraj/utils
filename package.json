@@ -1,5 +1,5 @@
 {
-  "name": "@fn/utils",
+  "name": "@suraj-gupta/utils",
   "version": "1.0.0",
   "description": "Set of utility functions",
   "main": "./dist/index.js",
