@@ -1,0 +1,27 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Set of utility functions",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/builtbysuraj/utils",
+  "repository": {
+    "url": "https://github.com/builtbysuraj/utils"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "utils",
+    "helpers",
+    "helper functions",
+    "lodash"
+  ],
+  "author": "Suraj Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
