@@ -1,6 +1,6 @@
 {
   "name": "@suraj-gupta/utils",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Set of utility functions",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -21,6 +21,7 @@
   "author": "Suraj Gupta",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.11.20",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }
